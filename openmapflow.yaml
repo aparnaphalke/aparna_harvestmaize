@@ -1,0 +1,10 @@
+version: 0.1.4
+project: aparna_harvestmaize
+description: OpenMapFlow aparna harvestmaize
+gcloud:
+    project_id: rcmrd-workshop-test
+    location: us-central1
+    bucket_labeled_eo: aparna_harvestmaize-labeled-eo
+    bucket_inference_eo: aparna_harvestmaize-inference-eo
+    bucket_preds: aparna_harvestmaize-preds
+    bucket_preds_merged: aparna_harvestmaize-preds-merged
