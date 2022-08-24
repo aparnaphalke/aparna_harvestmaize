@@ -1,5 +1,5 @@
 version: 0.1.5
-project: aparna_harvestmaize
+project: aparna-harvestmaize
 description: OpenMapFlow aparna harvestmaize
 gcloud:
     project_id: rcmrd-workshop-test
