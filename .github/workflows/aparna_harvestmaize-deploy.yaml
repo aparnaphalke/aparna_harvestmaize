@@ -6,7 +6,6 @@ name: aparna_harvestmaize-deploy
 on:
   push:
     branches: [ main ]
-    paths: 'data/models.dvc'
 
 jobs:
   deploy: 
